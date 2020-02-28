@@ -5,7 +5,7 @@
 
 <assembly>
 
-<name> LSPDDispatch </name>
+<name> PortCityPDDispatch </name>
 
 </assembly>
 
